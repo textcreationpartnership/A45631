@@ -1,0 +1,603 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries concerning the election of members for the ensuing Parliament together with a reply by way of query to the same.</title>
+            <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45631</idno>
+            <idno type="STC">Wing H833</idno>
+            <idno type="STC">ESTC R11091</idno>
+            <idno type="EEBO-CITATION">13296340</idno>
+            <idno type="OCLC">ocm 13296340</idno>
+            <idno type="VID">98892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45631)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98892)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 457:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries concerning the election of members for the ensuing Parliament together with a reply by way of query to the same.</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+                  <author>Harrington, James, 1664-1693. Roger L' Estrange's queries considered.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>["Some queries concerning the election" is] in fact by Roger L' Estrange.  James Harrington wrote a reply with, in part, the same title.  The confusion arises from Anthony Wood, who quotes Harrington's title incompletely. ...[Roger L' Estrange's] original work occupies the first eight pages; Harrington's reply occupies the following seven pages. -- Cf. Halkett and Laing, vol. 9, p. 314.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704. --  Some queries concerning the election of members for the ensuing Parliament.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98892:1" rendition="simple:additions"/>
+            <p>SOME QUERIES Concerning the <hi>Election of Members</hi> For the Enſuing PARLIAMENT. TOGETHER With a REPLY by way of QUERY to the ſame.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:98892:2"/>
+            <pb n="3" facs="tcp:98892:2"/>
+            <head>Some Queries concerning the Election of Members for the Enſuing Parliament.</head>
+            <p n="1">1. WHether the King hath not lately by Actions, as well as Promiſes, declar'd himſelf for the Intereſt of the Church of <hi>England;</hi> and whether thoſe Republicans, who have always made it their buſineſs to libel Kings, can more effectually abuſe his preſent Majeſty, than in traducing him as their Friend, and in uſing, as heretofore, a King's Name againſt his Deſign and Intereſt?</p>
+            <p n="2">2. Whether thoſe are true to the Intereſt of that Church, who endeavour'd in the laſt Seſſion to incapa<g ref="char:EOLhyphen"/>citate ſome of the beſt Members of it; and who were ſo far from granting that Amneſty which the King de<g ref="char:EOLhyphen"/>ſir'd and propos'd, that they carryed their Fury back to more than one preceding Reign, and ſet aſide all Acts of Indemnity, but that, which moſt of them need, in the Year 1660?</p>
+            <p n="3">3. Whether ſince the Diſſenters do not now deſire a Toleration for themſelves, which we have already grant<g ref="char:EOLhyphen"/>ed, but openly threaten and purſue their Revenge on us, it is not neceſſary that theſe apparent dangers, at leaſt, ſhould awaken us out of our Lethargy; and whether the Negligence of the Church of <hi>England,</hi> which on like occaſions heretofore, was thought the reſult of Pity and good Nature, would not now be eſteem'd the Effect of Cowardice and Stupidity?</p>
+            <p n="4">4. Whether thoſe Gentlemen of the Sword, who have Offices in <hi>Ireland,</hi> would not be better imploy'd in a Council of War than a Senate-Houſe? Whether, if they think it convenient, it would not be proper for them to make one Viſit to the <hi>Remains</hi> of their Regiments there, and to contribute by ſome other means to the Reducing that Kingdom, than by <hi>giving Taxes?</hi>
+            </p>
+            <pb n="4" facs="tcp:98892:3"/>
+            <p n="5">5. Whether thoſe reſtleſs Phanaticks, who have been bred up in Rebellion, and have always ſince been active Promoters of Sedition, ought not in conſcience to deſiſt now, and to be contented with the <hi>ſingle</hi> glory of having <hi>once</hi> ruin'd this Kingdom?</p>
+            <p n="6">6. Whether thoſe Worthy Gentlemen have been juſt<g ref="char:EOLhyphen"/>ly expos'd, in a late impudent Pamphlet, that were more haſty for ſending a <hi>ſpeedy Relief</hi> into <hi>Ireland,</hi>
+               <note place="margin">See a List of thoſe that were for the Re<g ref="char:EOLhyphen"/>gency <hi>1690. Lond.</hi>
+               </note> than for changing the Right of Succeſſion in an Hereditary Kingdom; and whether they may not poſſibly deſerve a place again in the Houſe, though they thought it more expedient for this Nation to beat K. <hi>James</hi> out of that <hi>One</hi> Kingdom, than to Vote his Daughter out of <hi>Three?</hi>
+            </p>
+            <p n="7">7. Whether the King be not now ſenſible, that moſt of thoſe haſty Abdicators did not change the Succeſſion out of kindneſs to him, but out of a farther Deſign of bringing in a Common-wealth, or, in other words, of making this an Elective and precarious Monarchy?</p>
+            <p n="8">8. Whether the Temper of thoſe Excellent Members deſerves Cenſure, who have promoted a General Pardon, and in that an Univerſal Quiet and Satisfaction; and who were not very active in ſuſpending the Biſhops, <hi>unwhip<g ref="char:EOLhyphen"/>ping Oats,</hi> and in excepting every body out of the <hi>no-Act</hi> of Indemnity?</p>
+            <p n="9">9. Whether any Man can juſtly ſtand Recommended to your Choice by no other Advantages than thoſe of an old Treaſon, and a long Exile for it? and whether one may reaſonably be thought to have improv'd his Crime into Vertue, and to become a <hi>Patriot</hi> of his Coun<g ref="char:EOLhyphen"/>try, by being <hi>outlaw'd</hi> into <hi>Holland?</hi>
+            </p>
+            <p n="10">10. Whether ſuch men as theſe may not poſſibly be Factors for <hi>Geneva</hi> and <hi>Amſterdam,</hi> and more mindful of their late Fellow-Burgers than their old Countrymen; and whether their frequent proteſtation, That they are <hi>true Engliſhmen,</hi> would not convince the greateſt Sceptick,
+<pb n="5" facs="tcp:98892:3"/>(if he underſtands their veracity) that they are <hi>not</hi> ſo.</p>
+            <p n="11">11. Whether our good Brethren the <hi>Dutch,</hi> according to their uſual kindneſs, would not, in all probability, have forborn to arreſt us for their Debt, 'till the Conqueſt of <hi>Ireland</hi> had put us in a capacity of repaying them; and whether thoſe Men, who in the abſence of moſt of the Members, gave 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> to the <hi>Dutch,</hi> did not more conſider their own good will to the Creditors, than our ability?</p>
+            <p n="12">
+               <note place="margin">I do not mean Sir <hi>R. Nudigate,</hi> nor Sir <hi>R. Cotton</hi> of <hi>Cheſhire.</hi>
+               </note>12. Whether it was not a ſtrange inſtance of Juſtice, in a Knight of the Shire, to move for a new Aſſeſsment of his own County; and whether if the County do not chooſe him again, they will not demonſtratively ſhew, that they have more kindneſs for their Money than their Repreſentative?</p>
+            <p n="13">13. Whether there ever was a better Parliament in General, than that of K. <hi>James</hi> the Second, and whether any body would approve the Re-election of thoſe worthy Members, who do not wiſh for a new <hi>Monmouth,</hi> and another <hi>Argyle?</hi>
+            </p>
+            <p n="14">14. Whether many honeſt Gentlemen, of Nice Prin<g ref="char:EOLhyphen"/>ciples, did not deſiſt from ſtanding at the laſt Election, as having raiſed more Scruples to themſelves than they could eaſily anſwer; and therefore not hoping to untie the <hi>Gordian</hi> Knot, put it for once into the hands of thoſe men who could effectually cut it? And whether now theſe Gentlemen will not be concern'd to redeem their neglect, and the more diligently to avert the blow, by how much the leſs careful they were to prevent the ſtroke?</p>
+            <p n="15">15. Whether the Clergy of the C. of <hi>E.</hi> are not con<g ref="char:EOLhyphen"/>cern'd to be as diligent againſt Phanataciſm now, as of late againſt Popery; at leaſt, ſuch of them as have a greater Reſpect for Pulpits and Chappels, than for Tubs and Barns?</p>
+            <pb n="6" facs="tcp:98892:4"/>
+            <p n="16">16. Whether if thoſe men who were incapacitated for procuring or conſenting to Surrenders, ſhall again Vote for their Judges, they will not give a ſignal Inſtance of their forgiving humour, and ſhew to the World, that they have a great ſhare of <hi>good Nature,</hi> though perhaps not an equal portion of <hi>Senſe?</hi>
+            </p>
+            <p n="17">
+               <note place="margin">Qu. Whe<g ref="char:EOLhyphen"/>ther Mr. <hi>Sacheve<g ref="char:EOLhyphen"/>rell.</hi>
+               </note>17. Whether it would not be Heroick for all thoſe Publick-ſpirited Gentlemen, to take up Mr. <hi>S</hi>—'s Reſo<g ref="char:EOLhyphen"/>lution of never ſtanding again 'till they can be choſen by <hi>honeſt Regulators only?</hi>
+            </p>
+            <p n="18">18. Whether the incapacitating Clauſe was not brought into the Houſe by Mr. <hi>Sach</hi> — and whether the following Liſt be not a true account of thoſe that ſeconded him in it?</p>
+            <floatingText xml:lang="eng" type="Act_of_Parliament">
+               <body>
+                  <p>
+                     <hi>Be it Enacted by the Authority aforeſaid, That every Mayor, Recorder, Alderman, Steward, Sheriff, Common-Council-man, Town-Clerk, Magiſtrate or Officer; who did take upon him to conſent to, or joyn in, any ſuch Surrender, or Inſtrument purporting ſuch Surrender as aforeſaid. Or did ſolicit, procure, proſecute, or did pay or contribute to the charge of proſecuting any</hi> Scire Facias, Quo Warranto, <hi>or Information in the nature of</hi> Quo Warranto, <hi>by this Act de<g ref="char:EOLhyphen"/>clared void, ſhall be, and is declared, adjudged, and Enacted to be for the ſpace of ſeven years uncapable, and diſabled to all Intents and Purpoſes, to bear, or execute any Office, Imployment, or Plate of Truſt, as a Member of ſuch reſpective Body Corporate, or in or for ſuch reſpective City, Town, Burgh or Cinque-port, whereof, or wherein he was a Member, at, or before the time of making ſuch Surrender, or Inſtrument pur<g ref="char:EOLhyphen"/>porting ſuch Surrender, or the ſuing out, or proſecuting ſuch</hi> Scire Facias, Quo Warranto, <hi>or Information in nature of</hi> Quo Warranto, <hi>any thing in this Act contained, or any other Caſe, Statute, or any Ordinance, Charter, Cuſtom, or any thing to the contrary in any wiſe notwithſtanding.</hi>
+                  </p>
+                  <pb n="7" facs="tcp:98892:4"/>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>The Honourable <hi>Edward Ruſſet,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>William Duncombe,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Henry Winchcombe,</hi> Bar.</item>
+                           <item>
+                              <hi>Henry Powle,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Algernoon May,</hi> Knight.</item>
+                           <item>Sir <hi>William Rich,</hi> Bar.</item>
+                           <item>Sir <hi>Henry Fane,</hi> Knight of the <hi>Bath.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Tipping,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>The Hon. <hi>Thomas Wharton,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Thomas Lee,</hi> Bar.</item>
+                           <item>
+                              <hi>Thomas Lewes,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>William Jephſon,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>William Drake,</hi> Kt.</item>
+                           <item>
+                              <hi>Richard Hampden,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Hambden,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Iſaac Newton,</hi> Magiſt. Art.</item>
+                           <item>Sir <hi>Robert Cotton.</hi> Kt. and Bar.</item>
+                           <item>
+                              <hi>John Maynwaring,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Roger Whitley,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Hugh Boſcawen,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>William Harbord,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Edward Ruſſet,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Henry Aſhhurſt,</hi> Kt.</item>
+                           <item>
+                              <hi>Anthony Rowe,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Hugh Forteſcue,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Robert Harly,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Peter Colleton,</hi> Bar.</item>
+                           <item>
+                              <hi>Jonathan Prideaux,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>John Lowther of Whitehaven,</hi> Bar.</item>
+                           <item>Sir <hi>Henry Capell,</hi> Kt.</item>
+                           <item>Sir <hi>Philip Gell,</hi> Bar.</item>
+                           <item>The Honoura. <hi>Anchitell Gray,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>George Treby,</hi> Kt.</item>
+                           <item>The Honoura. <hi>Robert Ruſſel,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Francis Drake,</hi> Bar.</item>
+                           <item>Sir <hi>Walter Younge,</hi> Bar.</item>
+                           <item>
+                              <hi>Thomas Reynell,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Elwell,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Samuel Foote,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Henry Trenchard,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Thomas Trenchard,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Burridge,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>John Morton,</hi> Bar.</item>
+                           <item>
+                              <hi>John Manly,</hi> ſenior, <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Matthew Andrews,</hi> Kt.</item>
+                           <item>
+                              <hi>Henry Mildmay,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Iſaac Rebow,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Thomas Middleton,</hi> Kt.</item>
+                           <item>Sir <hi>John Guiſe,</hi> Bar.</item>
+                           <item>Sir <hi>Ralph Dutton,</hi> Bar.</item>
+                           <item>Sir <hi>Duncombe Colecheſter,</hi> Kt.</item>
+                           <item>
+                              <hi>Thomas Master,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John How,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Richard Dowdeſwell,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Edward Harly,</hi> Kt. of the <hi>Bath.</hi>
+                           </item>
+                           <item>
+                              <hi>Paul Foley,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Dutton Colt,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Birch,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Thomas Pope Blount,</hi> Bar.</item>
+                           <item>Sir <hi>Charles Caeſar,</hi> Kt.</item>
+                           <item>Sir <hi>William Cowper,</hi> Bar.</item>
+                           <item>Sir <hi>Thomas Byde,</hi> Kt.</item>
+                           <item>The Honourable <hi>Sydney Wortley,</hi> alias. <hi>Mountague,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>The Hon. Sir <hi>Vere Fane,</hi> Kt. of the <hi>B.</hi>
+                           </item>
+                           <item>Sir <hi>John Knatchbull,</hi> Bar.</item>
+                           <item>Sir <hi>William Honywood,</hi> Bar.</item>
+                           <item>
+                              <hi>Henry Lee,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Tho Taylor,</hi> Bar.</item>
+                           <item>
+                              <hi>Charles</hi> Lord <hi>Brandon Gerrard,</hi>
+                           </item>
+                           <item>The Hon. <hi>Richard</hi> Lord <hi>Colcheſter.</hi>
+                           </item>
+                           <item>
+                              <hi>Bennet</hi> Lord <hi>Sharard.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Babington,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Edward Huſſey,</hi> Kt.</item>
+                           <item>Sir <hi>William Yorke,</hi> Kt.</item>
+                           <item>Sir <hi>John Brownlowe,</hi> Bar.</item>
+                           <item>Sir <hi>William Ellis,</hi> Bar.</item>
+                           <item>The Hon. <hi>Philip Howard,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Patience Ward,</hi> Kt.</item>
+                           <item>Sir <hi>Robert Clayton,</hi> Kt.</item>
+                           <pb n="8" facs="tcp:98892:5"/>
+                           <item>Sir <hi>Thomas Pilkington,</hi> Kt.</item>
+                           <item>Sir <hi>William Aſhurſt,</hi> Kt.</item>
+                           <item>Sir <hi>Henry Hobart,</hi> Kt.</item>
+                           <item>
+                              <hi>George England,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Trenchard,</hi> 
+                              <abbr>Eſq</abbr> Serj. at Law.</item>
+                           <item>The Hon. Sir <hi>Robert Howard,</hi> Kt.</item>
+                           <item>Sir <hi>Thomas Samuel,</hi> Kt.</item>
+                           <item>Sir <hi>William Langham,</hi> Kt.</item>
+                           <item>Sir <hi>Francis Blake,</hi> Kt.</item>
+                           <item>Sir <hi>Scroop How,</hi> Kt.</item>
+                           <item>Sir <hi>John Cope,</hi> Bar.</item>
+                           <item>Sir <hi>Thomas Lytleton,</hi> Bar.</item>
+                           <item>
+                              <hi>Edward Gorges,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>The R. Hon. <hi>Charles</hi> Marq. of <hi>Winton.</hi>
+                           </item>
+                           <item>The Hon. <hi>William</hi> Lord <hi>Pawlett.</hi>
+                           </item>
+                           <item>
+                              <hi>Francis Morley,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Fitton Gerrard,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Henry Wallap,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>The Honour. <hi>James Ruſſel,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Michael Biddulph,</hi> Bar.</item>
+                           <item>
+                              <hi>Philip Foley,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Henry Boyle,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Philip Skippon,</hi> Kt.</item>
+                           <item>Sir <hi>Robert Rich,</hi> Kt. and Bar.</item>
+                           <item>Sir <hi>John Duke,</hi> Bar.</item>
+                           <item>Sir <hi>Richard Ounſlow,</hi> Bar.</item>
+                           <item>
+                              <hi>George Evelyn,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Arnold,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Thomas Howard,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Foot Onſlow,</hi> Merchant.</item>
+                           <item>Sir <hi>John Thompſon,</hi> Bar.</item>
+                           <item>
+                              <hi>Denzill Onſlow,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>John Pelham,</hi> Bar.</item>
+                           <item>
+                              <hi>John Machell,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Lewkener,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>John Fagge,</hi> Bar.</item>
+                           <item>
+                              <hi>William Garway,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Richard Newdigate,</hi> Bar.</item>
+                           <item>Sir <hi>Thomas Mompeſſon,</hi> Kt.</item>
+                           <item>
+                              <hi>Thomas Pits,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Charles Rawleigh,</hi> Kt.</item>
+                           <item>
+                              <hi>Morice Bocland,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>William Pinſent,</hi> Bar.</item>
+                           <item>
+                              <hi>Charles Godfry,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Thomas Freke,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Wildman,</hi> ſenior, <abbr>Eſq</abbr>
+                           </item>
+                           <item>— <hi>Hawles,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Wildman,</hi> junior, <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>James Ruſhout,</hi> Bar.</item>
+                           <item>
+                              <hi>Thomas Foley,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>William Bremley,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>John Somers,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Richard</hi> Lord <hi>Coote.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>rbert,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Edward Tompſon,</hi> Alderman.</item>
+                           <item>
+                              <hi>William Stockdale,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>William Strickland,</hi> Bar.</item>
+                           <item>
+                              <hi>William Palmes,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Michael Wharton,</hi> Kt.</item>
+                        </list>
+                        <list>
+                           <head>Barons of the Cinque-Ports.</head>
+                           <item>
+                              <hi>Richhard Auſten,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>James Chadwick,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Julius Deeds,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>
+                              <hi>Tho. Pappillon;</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>James Oxinden,</hi> Kt. and Bar.</item>
+                        </list>
+                        <list>
+                           <head>WALES.</head>
+                           <item>Sir <hi>William Williams,</hi> Kt. and Bar.</item>
+                           <item>
+                              <hi>Buſſy Manſell,</hi> 
+                              <abbr>Eſq</abbr>
+                           </item>
+                           <item>Sir <hi>Rowland Gwynn,</hi> Kt.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="replies">
+            <pb n="9" facs="tcp:98892:5"/>
+            <head>
+               <hi>Roger L'eſtrange's</hi> QUERIES CONSIDERED; AND Some Queries put, for the Conſideration of thoſe Per<g ref="char:EOLhyphen"/>ſons, whoſe Judgments are in danger of being again Poyſoned by the Snare of ſmooth Words; calcula<g ref="char:EOLhyphen"/>ted to the humour of a Biggot, for the helping the Indigent Caſe of King <hi>James,</hi> and Vindicating the Non-Abdicators.</head>
+            <p n="1">1. WHether the Church of <hi>England</hi> ought not to be con<g ref="char:EOLhyphen"/>tent, and very grateful, that the King has ſo often declared himſelf for the Church of <hi>England,</hi> without obliging his Majeſty on pain of their Diſpleaſure (and no leſs a Scandal than Presbyterian in his Heart) to ſubjoyn a profeſs'd Abhorrence and inveterate Enmity againſt all his Diſſenting Subjects?</p>
+            <p n="2">2. Whether the Church of <hi>England</hi> or Diſſenters have moſt made it their Buſineſs to Libel the preſent King, or whether indeed they ever did Libel him to the Degree of our Query-maker in his ſixth Query; and whether it be the ſin againſt the Holy Ghoſt, for the Diſſenters to glory in the Friend<g ref="char:EOLhyphen"/>ſhip of their King, who has given them his Royal Word for his Favour and Protection in the Liberty of their Con<g ref="char:EOLhyphen"/>ſcience,
+<pb n="10" facs="tcp:98892:6"/>which is ſo much repined at, and the King ſo much hated for?</p>
+            <p n="3">3. Whether it be really the Church of <hi>England</hi> (or our Query-maker only that makes her ſo) that makes her ſelf a Sanctuary for all the Offenders of the laſt Reign? and if ſo, What ſhe can anſwer to her excluding the late King <hi>James,</hi> while none of his Inſtruments are thought guilty enough to ſuffer, no, nor to be excluded doing the ſame things a<g ref="char:EOLhyphen"/>gain, if they have Opportunity?</p>
+            <p n="4">4. Whether alſo it had not been as mannerly in our In<g ref="char:EOLhyphen"/>quirer to have ſet down a Liſt of all thoſe Members that ſtood in need of Indemnity 1660. to make out that it was a majority? or whether his Credit be good enough to paſs without Proof, who ſtands in ſo much need of an Indem<g ref="char:EOLhyphen"/>nity himſelf, and of a Pillory now for traducing 146 Gen<g ref="char:EOLhyphen"/>tlemen of the Houſe of Commons as Republicans or old Rebels, becauſe againſt his Will they Voted his preſent Ma<g ref="char:EOLhyphen"/>jeſty King, and took the Sword of Perſecution out of the hand of the Church of <hi>England?</hi>
+            </p>
+            <p n="5">5. Whether his third Query be not inſinuation enough to make the Church of <hi>England</hi> loath him, who foſter up<g ref="char:EOLhyphen"/>on them his own Spirit of Blood and War, ſo contradicto<g ref="char:EOLhyphen"/>ry to the known and practiſed Doctrine of the Church, Charitiy and Paſſive Obedience? and what but Rebellion can this Libeller inſinuate, when he ſays the Church of <hi>England</hi> will be eſteem'd Cowards and Stupid, if they do not awake againſt thoſe his Majeſty has taken into his Protection?</p>
+            <p n="6">6. Whether this Fellow is not a fit Perſon to be hugg'd by the Church of <hi>England,</hi> that ſhall boaſt in Print that our Army in <hi>Ireland</hi> are but Remains of Regiments, and propoſing other means to reduce <hi>Ireland</hi> than giving Tax<g ref="char:EOLhyphen"/>es, (<hi>viz.</hi> recalling K. <hi>James</hi>) if he does not mean that, we deſire him to name thoſe other means, not doubting his
+<pb n="11" facs="tcp:98892:6"/>Majeſty, as well as the Nation, will take it very kindly of him, to put us in a way to reduce the Kingdom without Money, or a way for Money without Taxes?</p>
+            <p n="7">7. Whether any Diſſenter ever denyed his fifth Query; or what his reaſon is for putting it; or how he will prove all thoſe qualifications upon any Member of the Houſe.</p>
+            <p n="8">8. Whether it be fit for this Query-maker to call in que<g ref="char:EOLhyphen"/>ſtion the Actions of Parliament; and if it be, how he will make it out that the Houſe changed the Right of Succeſſi<g ref="char:EOLhyphen"/>on; and how will the Church of <hi>England</hi> anſwer to a Charge againſt their boaſted Loyalty, for ſuffering an Impudent Scrib<g ref="char:EOLhyphen"/>ler to call the making his Majeſty King, a Voting Queen <hi>Mary</hi> out of three Kingdoms; or whether this be not ſuch an Affront to his Majeſty and the preſent Government, as any Subject that has reſpect for either cannot but regret?</p>
+            <p n="9">9. Whether it is not as likely they ſhould be his Maje<g ref="char:EOLhyphen"/>ſties Friends that Voted for making him King, as thoſe that were againſt it; and whether ever the King told this Query-maker, he was ſenſible they had Republican De<g ref="char:EOLhyphen"/>ſigns in doing it?</p>
+            <p n="10">10. Whether the Temper of thoſe Members does not de<g ref="char:EOLhyphen"/>ſerve Cenſure, who were ſo haſty for a General Pardon, that they could not ſtay to think of making Inquiſition for Blood, that ſo the guilt of all the Blood ſpilt in the late Tyranny might devolve on the Nation, but preferr'd their own ſecurity againſt the laſh of the Law, to the juſt retribution that God Almighty expected from their hands, in whom he had placed the diſpenſing of Juſtice, and to the King's being juſt to his Declaration.</p>
+            <p n="11">11. Whether it was not a ſign of an excelling Loyalty in thoſe Members who ſo carefully provided that the King ſhould ſwear at his Coronation to protect the Biſhops in all their Epiſcopal Rights, who at the ſame time refuſed to ſwear Allegiance to him, or to own him as their Head,
+<pb n="12" facs="tcp:98892:7"/>and how much it went againſt the grain to have them ſuſpended for it, is diſcernable in every Query he makes?</p>
+            <p n="12">12. Whether Whipping <hi>Oats</hi> was not an Inſtance of Ty<g ref="char:EOLhyphen"/>ranny and Cruelty, in a Nation that of all the World pre<g ref="char:EOLhyphen"/>tends to Humanity, and to have no Tortmes practiſed; and whether the oppoſing that reverſing Vote, was not more to ſhew their good Will than any Spleen to the Man him<g ref="char:EOLhyphen"/>ſelf?</p>
+            <p n="13">13. Whether if all theſe things do not unqualifie a Mem<g ref="char:EOLhyphen"/>ber for a place in the Houſe, <hi>Qu.</hi> 6. Why being baniſhed by the Cruelty of an Abdicated Tyrant, ſhould unfit a Man for the Service of his Countrey, remains to be proved?</p>
+            <p n="14">14. Whether the boaſting of Loyalty and the Church of <hi>England</hi> may not evince a Factor for Popery, as well as ſaying, I am a true <hi>Engilſh</hi> Man, proves one to be none; and whether the Loyalty ſo lately in Vogue, and the Zeal for the Church, was not more in the Mouths of thoſe very Men, who ſince in <hi>France</hi> and <hi>Ireland</hi> went openly to Maſs, than in any other; and whether the Church of <hi>England</hi> are not now too much awake to be ſo ridden again?</p>
+            <p n="15">15. Whether <hi>England</hi> is reduced to ſo much Exigence, as to make Compoſition for time with the States of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> for what they expended on our Account; and whe<g ref="char:EOLhyphen"/>ther this Gentleman is not for leſſening our Figure in the World, and our Value abroad, which is indeed much for our Intereſt, by having a Meſſage ſent to the States, <hi>viz. May it pleaſe your High and Mightineſſes, your poor and needy Brethren of</hi> England <hi>are not able yet to repay you, but if you will have Patience with them, they will be very honeſt, and pay you all.</hi> And further, Whether this Gentleman ever look'd over the Act for repaying the <hi>Dutch,</hi> to ſee how many Years it will be before they will have their Money?</p>
+            <p n="16">16. Whether the Gentleman did not deſign to leave ſome unanſwerable Query in his Paper, by not telling who did
+<pb n="13" facs="tcp:98892:7"/>ſo, that ſo we might not examine the particular Caſe, and whether if any Member ſaw an Act of Parliament evaded, and the King cheated, as he was moſt loyally in that Bill, it was not a Noble and Generous Honeſty to move for a juſt Review even among his beſt Friends?</p>
+            <p n="17">17. Whether his 13th. Query has not a little Nonſenſe in it; and whether he can ſhew any particular quality in the Parliament of K. <hi>James</hi> the ſecond, to diſtinguiſh them from all Parliaments that ever was, ſave that there was a full Brigade of Sword-men in it, for which he in particu<g ref="char:EOLhyphen"/>lar quarrels at this Parliament, in which are very few?</p>
+            <p n="18">18. Whether any Man may not ſtart Queſtions that no Man can Anſwer? or what Scruples any Man made at the Actions of K. <hi>James,</hi> which he ſo much repented of as to make him deſiſt in Point of Conſcience from ſtanding at the laſt Election?</p>
+            <p>And for a Query by the way; Whether it is not like<g ref="char:EOLhyphen"/>ly they have ſome other end than a bare ſerving their Countrey in the Houſe, who bid ſo high for Votes, that an honeſt Man that has no ſelf-end cannot afford to give; and that for the pure and ſingle benefit of Religion, and propagation of the Church of <hi>England,</hi> Debauch the Nati<g ref="char:EOLhyphen"/>on with drunken Treats, to engage them to chooſe them to ſit in Parliament, that they may plead Priviledge in Barr of their juſt<note n="*" place="margin">I do not mean Sir <hi>Peter Rich</hi>
+               </note> Debts; and whether this was not a grand Reaſon why a Bill for Regulating Elections has ſo often been offered, but could never Paſs in the laſt Houſe?</p>
+            <p n="19">19. Whether the 15th Query be not the bottom of all the reſt, and the onely Card they have to play, who watch for our Diviſion to overturn the Government once again, in hopes of reaping the ſweet Harveſt of a com<g ref="char:EOLhyphen"/>mon Calamity, to make amends for their preſent Poverty, who formerly made great gain of the Pretence of Reli<g ref="char:EOLhyphen"/>gion.
+<pb n="14" facs="tcp:98892:8"/>
+               <hi>Hen! Quantum profuit haec fabula Chriſti?</hi>
+            </p>
+            <p n="20">20. Whether it is likely this Libeller ſhall be Judge of the good Nature or ſence of the People of <hi>England,</hi> or that his Opinion muſt be the Standard of Elections to come?</p>
+            <p n="21">21. Whether his Reflection on Mr. <hi>Sachaveril,</hi> and pub<g ref="char:EOLhyphen"/>liſhing a Liſt of Members, is not more their Honour and Vindication than Reflection, eſpecially from his ſordid Scandal on them in his ſecond Query?</p>
+            <p n="22">22. Whether, To give one Inſtance of the Ingenuity and Generoſity of the Party this Fellow pleads for, it be not very remarkable, how our Four new Candidates for <hi>Lon<g ref="char:EOLhyphen"/>don</hi> ſtood by, and ſee a profligate drunken Fellow, that calls himſelf of the Church of <hi>England,</hi> bid the Sheriff of <hi>London,</hi> executing his Office with unqueſtionable and in<g ref="char:EOLhyphen"/>diſputable Integrity, Kiſs his Poſteriors on the <hi>Huſtings</hi> in <hi>Guild-hall,</hi> and not ſo much as Reprove him for it, much leſs Commit him, as they ought in Honour to have done? and whether in doing it they had not gained more Ho<g ref="char:EOLhyphen"/>nour, and more vindicable Credit, than by clandeſtine Calls on the Livery, foreſtalling of Votes, and Sunday Cabals, engaging an Intereſt for their Election?</p>
+            <p n="23">23. Whether the Kings late Letter for the Reforming the Clergy and the whole Nation, has in it any ſuch hor<g ref="char:EOLhyphen"/>rible thing, as to have it publickly called <hi>A damn'd Phana<g ref="char:EOLhyphen"/>tical Cant?</hi> And whether the Church it ſelf ever pretended to be ſo Infallible as to need no ſuch Admonition, or that no Reformation can be made in it, either in its Hierarchy or in its Members, that can fall ſhort of <hi>Presbytery</hi> and <hi>Phanatioiſm?</hi>
+            </p>
+            <p n="24">24. Whether Dr. <hi>Sherlock</hi>'s appearing in the Pulpit after a Deprivation by Act of Parliament, be not the Effect of the ſame Spirit; who being adviſed by the Learned in the Law, and permitted by his Superiours in the ſame Cir<g ref="char:EOLhyphen"/>cumſtances
+<pb n="15" facs="tcp:98892:8"/>dare openly affront the Government, and bid Defiance to an Act of Parliament, as a further Teſtimony of the Practice as well as Profeſſion of the Doctrine of Paſſive Obedience?</p>
+            <p>
+               <hi>Laſtly,</hi> Why the Church of <hi>England,</hi> ſhould after all the Publick Acknowledgments of their calling in the <hi>P.</hi> of <hi>O.</hi> and after their Solemn Joyning with him in his Enter<g ref="char:EOLhyphen"/>prize, and thanks to him for performing it, and to God for the Succeſs, now ſtrive to have it agreed, that he came in by Conqueſt, which is paſt my Learning to unriddle, and very little for the Honour of the Nation for them to ac<g ref="char:EOLhyphen"/>knowledge.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Palmer,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
